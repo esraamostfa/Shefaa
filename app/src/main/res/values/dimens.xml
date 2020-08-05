@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="medicine_card_margin">5dp</dimen>
+    <dimen name="medicine_card_radius">8dp</dimen>
+    <dimen name="medicine_card_elevation">3dp</dimen>
+    <dimen name="medicine_item_text_padding">15dp</dimen>
+    <dimen name="standard_button_margin">31dp</dimen>
+    <dimen name="standard_layout_margin">9dp</dimen>
+    <dimen name="spinner_padding">16dp</dimen>
+    <dimen name="medicine_edit_text_size">28sp</dimen>
+    <dimen name="time_picker_margin">41dp</dimen>
+</resources>

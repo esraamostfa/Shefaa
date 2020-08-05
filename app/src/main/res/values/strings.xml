@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Shefaa</string>
+
+    <string-array name="diseases_titles_array">
+        <item>Home</item>
+        <item>Hypertension</item>
+        <item>Cholesterol</item>
+        <item>Diabetes</item>
+        <item>Liver Diseases</item>
+        <item>Kidney Diseases</item>
+        <item>Osteoporosis</item>
+        <item>Menopause</item>
+    </string-array>
+
+    <string-array name="diseases_images_array">
+        <item>home_icon</item>
+        <item>hypertension_icon</item>
+        <item>colesterol_icon</item>
+        <item>diabetes_icon</item>
+        <item>liver_icon</item>
+        <item>kidney_icon</item>
+        <item>bones_icon</item>
+        <item>menopuase_icon</item>
+    </string-array>
+
+    <string name="add_medicine_hint">Medicine Name</string>
+    <string name="save_button">Save</string>
+
+    <string-array name="alarm_number">
+        <item>مرة واحدة</item>
+        <item>مرتين</item>
+        <item>ثلاث مرات</item>
+    </string-array>
+
+
+    <string name="empty_not_saved">No medicines was added</string>
+    <string name="dialog_title">What do you want to do?</string>
+    <string name="dialog_positive_button">Delete</string>
+    <string name="dialog_negative_button">Cancel</string>
+
+</resources>
